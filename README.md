@@ -402,5 +402,5 @@ react-icons, jspdf, jspdf-autotable
 This is an AI-powered prediction tool for educational purposes. Actual loan approval depends on the bank's internal policies, documentation review, and regulatory compliance.
 
 ---
-
+website link:https://loan-eligibility-koet.onrender.com
 **Built with ❤️ using React + Flask + Scikit-learn**
